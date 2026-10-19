@@ -1,4 +1,4 @@
-# 🧮 Tkinter Desktop Calculator
+# 🧮 Tkinter Desktop Calculator by davinciXVII
 
 A clean, responsive desktop calculator application built with Python and the **Tkinter GUI framework**. This utility features an interactive graphical display layout, a modular numerical input matrix, and robust evaluation logic tracking to perform mathematical operations instantly.
 
